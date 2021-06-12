@@ -2,6 +2,8 @@
 
 My main focus is to make it look good on the frontend, and then focus on the backend side. I don't like using stuff like firebase and I want to show my backend skills here as well.
 
+![preview](https://puu.sh/HOquk/e4998bbe34.png)
+
 ## Currently done
 - Everything is hardcoded for now
 - **Everything runs locally**
