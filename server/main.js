@@ -25,8 +25,6 @@ mongoose.connect(process.env.DB_HOST, {
 
 
 app.use("/", require("./routes/_home"))
-app.use("/createQuiz", require("./routes/createQuiz"))
-app.use("/getQuiz", require("./routes/getQuiz"))
 // user stuff
 app.use("/signUp", require("./routes/login/signUp"))
 app.use("/signIn", require("./routes/login/signIn"))

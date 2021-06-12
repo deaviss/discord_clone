@@ -14,10 +14,10 @@ export default function SidebarChannelVoice({ id, channel }) {
 			username: "Mokraryba"
 		},
 		{
-			username: "Twojstary"
+			username: "test 789"
 		},
 		{
-			username: "Twoja stara zapierdala"
+			username: "test123"
 		}
 	]
 
